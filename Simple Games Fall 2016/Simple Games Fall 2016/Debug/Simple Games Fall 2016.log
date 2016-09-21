@@ -1,4 +1,4 @@
 ﻿  main.cpp
-c:\users\ye-eun\desktop\simple games fall 2016\sfml-2.4.0\include\sfml\window\windowhandle.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-  Simple Games Fall 2016.vcxproj -> C:\Users\Ye-Eun\Desktop\Simple Games Fall 2016\Simple Games Fall 2016\Debug\Simple Games Fall 2016.exe
-  Simple Games Fall 2016.vcxproj -> C:\Users\Ye-Eun\Desktop\Simple Games Fall 2016\Simple Games Fall 2016\Debug\Simple Games Fall 2016.pdb (Full PDB)
+c:\users\ye-eun\desktop\simple-games-fall2016\simple games fall 2016\simple games fall 2016\include\sfml\window\windowhandle.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  Simple Games Fall 2016.vcxproj -> C:\Users\Ye-Eun\Desktop\Simple-Games-Fall2016\Simple Games Fall 2016\Debug\Simple Games Fall 2016.exe
+  Simple Games Fall 2016.vcxproj -> C:\Users\Ye-Eun\Desktop\Simple-Games-Fall2016\Simple Games Fall 2016\Debug\Simple Games Fall 2016.pdb (Full PDB)
