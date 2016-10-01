@@ -1,9 +1,8 @@
 // Simple Game Fall 2016.cpp
-// Day 1
 
 #include <SFML/Graphics.hpp>
-//#include "ResourcePath.h"
-//#include "Overlap.h"
+#include "ResourcePath.h"
+#include "Overlap.h"
 
 
 int main()
@@ -28,7 +27,7 @@ int main()
 		//clear the screen
 		window.clear();
 		//draw
-
+		
 		//update the window
 		window.display();
 
