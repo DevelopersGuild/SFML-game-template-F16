@@ -11,7 +11,10 @@ int main()
 	sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Works!");
 
 	// declare variables
-
+	sf::RectangleShape rect;
+	rect.setSize(sf::Vector2f(100.f, 200.f));
+	rect.setFillColor(sf::Color::Green);
+	
 	//start the game loop
 	while (window.isOpen())
 	{
@@ -27,7 +30,7 @@ int main()
 		//clear the screen
 		window.clear();
 		//draw
-		
+		window.draw(rect);
 		//update the window
 		window.display();
 
